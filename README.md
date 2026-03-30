@@ -1,5 +1,5 @@
 # Server-Performance-Stats
-# 📊 Server Performance Stats Script (Basic Version)
+# 📊 Server Performance Stats Script
 
 This project is a simple Bash script that displays key server performance statistics such as CPU usage, memory usage, disk usage, and top processes.
 
